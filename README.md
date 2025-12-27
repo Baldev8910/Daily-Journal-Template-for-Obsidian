@@ -16,4 +16,4 @@ Then comes the day's "Positive Actions", "Negative Actions", and "Reflection/Aff
 
 Finally, in "Today's Notes" you can write what worked well today, what failed and what reminder you would like to have for tomorrow. This again can be motivational quote or the energy you are feeling at the end of the day or a your favourite movie quote.
 
-You can alter the template as per your preferences. Hope you enjoy. Check out my GitHub for more exciting stuff.
+Copy the template and paste it in `Templates/template.md` You can alter the template as per your preferences. Hope you enjoy. Check out my GitHub for more exciting stuff.
